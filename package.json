@@ -18,5 +18,8 @@
   "homepage": "https://github.com/KeeveRW11/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^29.0.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
   }
 }
